@@ -10,7 +10,7 @@ PORT = 1883
 TOPIC = "sensores"
 
 USERNAME = "usuario"      # <-- reemplaza por tu usuario real
-PASSWORD = "clave123"     # <-- reemplaza por tu clave real
+PASSWORD = "papa123"     # <-- reemplaza por tu clave real
 
 # -------------------------------------------------
 # Configuración Node-RED
